@@ -1,0 +1,36 @@
+body{
+    background-image: url('ind2.png');
+}
+
+.container{
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: white;
+    height: 180px;
+    width: 330px;
+    margin: 200px;
+    margin-left: 480px;
+}
+p{
+    margin-left: 10px;
+    color: gray;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+input{
+    border: 2px white;
+    width: 270px;
+    height: 30px;
+    margin-left: 20px;
+    padding-left: 10px;
+    background-color: gainsboro;
+}
+
+.buttons{
+    border: 2px #00A5EC;
+    margin-left: 181px; 
+    width: 120px; 
+    height: 30px;
+    background-color: #00A5EC;
+    color: white;
+}
